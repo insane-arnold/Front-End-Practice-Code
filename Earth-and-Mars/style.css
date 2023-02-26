@@ -1,0 +1,30 @@
+body{
+    background-color: #333; 
+    color: #98eff2;
+}
+
+a {
+    color: darksalmon;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+p{
+    color:bisque;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size:60px;
+    font-family: Tahoma, Verdana, sans-serif;
+    color: darkkhaki; 
+}
+
+h2{
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h3{
+    font-family: Tahoma, Verdana, sans-serif;
+}
