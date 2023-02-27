@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    padding: 15px 0;
+    background-color: #0aa9c2;
+    color: white;
+    font-size: 20px;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h2, h3{
+    font-family: Tahoma, Verdana, sans-serif;
+
+}
+
+p{
+    font-size: large;
+    font-family: Arial, sans-serif;
+}
+
+#mian_context{
+    background-color: #faf4ed;
+}
+
+#box1{
+    text-align: center;
+    padding: 100px 0;
+    width: 50%;
+    margin: auto;
+    color: #a9afaf;
+}
+
+#box1 p{
+    text-align: justify;
+}
+
+#box2{
+    display: flex;
+    background-color: #1D3C41;
+    color: #fff;
+}
+
+.column{
+    border: 2px solid white;
+    margin: 15px 10px;
+    padding: 13px;
+    text-align: center;
+}
