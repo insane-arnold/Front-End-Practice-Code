@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', serif;
+    color: black;
+}
+
+header{
+    padding: 20px;
+    background-color: antiquewhite;
+    font-variant: small-caps;
+    border-bottom: 1px solid rgb(245, 202, 202);
+}
+
+main{
+    padding: 20px;
+    background-color: beige;
+}
+
+q{
+    font-style: italic;
+    font-size: larger;
+}
+
+#intro{
+    font-size: larger;
+    font-style: oblique;
+}
+
+#main_container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(166, 229, 231);
+}
+
+#image_container img{
+    /* border: 2px solid red; */
+    max-width: 100%;
+}
+
+.box{
+    width: 45%;
+    padding: 20px;
+    border: 2px solid green;
+    font-family: 'Courier New', Courier, monospace;
+}
