@@ -9,3 +9,6 @@ The details of each project is given below:
 
 3. ***BasicLayout_2:*** This is a one page website with a basic layout with a column created by using a flexbox.
 
+4. ***News Article:*** This is a basic website blog post which uses flex box is used to align the image and article side by side.
+
+5. ***Sign-Up:*** This is a simple Sign Up page of a website where a form and submit button is present.
