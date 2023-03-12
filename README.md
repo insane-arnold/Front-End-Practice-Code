@@ -12,3 +12,5 @@ The details of each project is given below:
 4. ***News Article:*** This is a basic website blog post which uses flex box is used to align the image and article side by side.
 
 5. ***Sign-Up:*** This is a simple Sign Up page of a website where a form and submit button is present.
+
+6. ***Google Clone:*** In this project, a clone of Google Search Homepage is created.
