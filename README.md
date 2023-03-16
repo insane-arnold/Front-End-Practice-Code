@@ -14,3 +14,7 @@ The details of each project is given below:
 5. ***Sign-Up:*** This is a simple Sign Up page of a website where a form and submit button is present.
 
 6. ***Google Clone:*** In this project, a clone of Google Search Homepage is created.
+
+7. ***Space Exploration Website:***
+
+8. ***
