@@ -14,3 +14,9 @@ The details of each project is given below:
 5. ***Sign-Up:*** This is a simple Sign Up page of a website where a form and submit button is present.
 
 6. ***Google Clone:*** In this project, a clone of Google Search Homepage is created.
+
+7. ***Space Exploration Website:*** In this project some more flexbox property is used to create a web exploration page with a giph added at the background.
+
+8. ***Digital Business Card:*** It is a page with a business card with some basic information about myself. 
+
+9. ***Birthday Post Card:*** It is a page which has a birthday post card and :hover property is used in this project.
