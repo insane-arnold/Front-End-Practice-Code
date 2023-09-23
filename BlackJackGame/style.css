@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#main_body{
+    display: flex;
+    height: 100vh;
+    margin: auto;
+    background: linear-gradient(90deg, #42275a , #734b6d);
+    justify-content: center;
+    align-items: center;
+}
+
+#inner_box{
+    border: 5px solid #F9F5E7;
+    border-radius: 1em;
+    padding: 2em 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.para{
+    text-align: center;
+}
+
+#title{
+    margin: 0%;
+    font-size: 40px;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+#message{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+#button_container{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover {background-color: #FFD966}
