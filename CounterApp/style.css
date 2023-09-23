@@ -1,0 +1,64 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#container{
+    display: flex;
+    height: 100vh;
+    margin: auto;
+    background: linear-gradient(45deg, #F1935C,#424874);
+    justify-content: center;
+    align-items: center;
+}
+
+#counter_box{
+    border: 5px solid #F9F5E7;
+    border-radius: 1em;
+    padding: 2em 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#box_title{
+    margin: 0%;
+    font-size: 40px;
+    font-variant: small-caps;
+    
+}
+
+#icon{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 3em
+}
+
+#counter_tool{
+    font-size: 30px;
+    text-align: center;
+}
+
+#button{
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    display: inline-block;
+    padding: 8px 0;
+    border: 2px solid #F9F5E7;
+    box-shadow: 0px 0px 20px #424874;
+    border-radius: 10px;
+    width: 75px;
+    background-color: #F0997D;
+}
+
+
+button:hover {background-color: #FFD966}
+
+button:active {
+    background-color: #F9F5E7;
+    
+}
+
+
